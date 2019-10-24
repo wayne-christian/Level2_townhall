@@ -194,7 +194,7 @@ var jobgraph = function () {
 			type: 'column'
 		},
 		title: {
-			text: 'Firms Creating New Design Jobs 2017'
+			text: 'Firms Creating New Jobs 2018'
 		},
 		subtitle: {
 			text: ''
